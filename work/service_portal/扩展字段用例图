@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T06:54:59.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.7.4" etag="5Vp4puvGGxK0BC7Kqpa4" type="github"><diagram id="aGuCuQJ2jM3YFIgT3IS6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-28T07:53:20.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.7.4" etag="D8AcMmETeqbfuhAy8alE" type="github">
+  <diagram id="6BSjDUfqkEKZoK2olg_F" name="第 1 页">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;curved=1;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-1" target="-px9c7KYo8ZBZFrAKoqx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-7" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-1" target="-px9c7KYo8ZBZFrAKoqx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;curved=1;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-1" target="-px9c7KYo8ZBZFrAKoqx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-2" value="编辑扩展字段定义" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-3" value="编辑树型档案" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-4" value="编辑树型档案关联的扩展字段" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-9" target="-px9c7KYo8ZBZFrAKoqx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-9" target="-px9c7KYo8ZBZFrAKoqx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-9" target="-px9c7KYo8ZBZFrAKoqx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-9" target="-px9c7KYo8ZBZFrAKoqx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-9" target="-px9c7KYo8ZBZFrAKoqx-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-9" target="-px9c7KYo8ZBZFrAKoqx-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-9" value="运营人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-17" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-11" target="-px9c7KYo8ZBZFrAKoqx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-11" value="查询业务数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-14" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-12" target="-px9c7KYo8ZBZFrAKoqx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-12" value="打开业务数据管理页面" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-13" value="加载扩展字段搜索条件" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-18" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-15" target="-px9c7KYo8ZBZFrAKoqx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-15" value="查询业务数据和扩展数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-16" value="查询扩展字段定义" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-21" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-19" target="-px9c7KYo8ZBZFrAKoqx-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-19" value="编辑业务数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-20" value="保存业务数据和扩展数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-24" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-22" target="-px9c7KYo8ZBZFrAKoqx-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-22" value="删除业务数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="530" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-23" value="删除业务数据和扩展数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="530" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-28" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-26" target="-px9c7KYo8ZBZFrAKoqx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-26" value="下载导入模板" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="620" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-27" value="根据类型组装不同sheet" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="414" y="620" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-32" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-29" target="-px9c7KYo8ZBZFrAKoqx-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-33" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-px9c7KYo8ZBZFrAKoqx-29" target="-px9c7KYo8ZBZFrAKoqx-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-29" value="导入" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="740" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-30" value="校验扩展字段数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="414" y="710" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-px9c7KYo8ZBZFrAKoqx-31" value="保存扩展字段数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="420" y="790" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

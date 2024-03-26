@@ -1,9 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T09:03:53.063Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="21.7.5" etag="8s7U06hWkNMb2HNpgPoR" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T09:07:55.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cC-AAkLf8e6x-kLgcUJY" version="21.7.5" type="github">
   <diagram name="第 1 页" id="kDbhrfnu1pno20YqwbSC">
-    <mxGraphModel>
+    <mxGraphModel dx="984" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VpYnPdU7izVROzX6TR5v-1" value="网关(gateway)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VpYnPdU7izVROzX6TR5v-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="590" height="90" as="geometry">
+            <mxRectangle x="330" y="90" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VpYnPdU7izVROzX6TR5v-2" value="服务门户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VpYnPdU7izVROzX6TR5v-4">
+          <mxGeometry x="30" y="20" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VpYnPdU7izVROzX6TR5v-8" value="门户触点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VpYnPdU7izVROzX6TR5v-4">
+          <mxGeometry x="140" y="20" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VpYnPdU7izVROzX6TR5v-9" value="F9" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VpYnPdU7izVROzX6TR5v-4">
+          <mxGeometry x="250" y="20" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VpYnPdU7izVROzX6TR5v-12" value="device-agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VpYnPdU7izVROzX6TR5v-4">
+          <mxGeometry x="360" y="20" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VpYnPdU7izVROzX6TR5v-13" value="client-agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VpYnPdU7izVROzX6TR5v-4">
+          <mxGeometry x="480" y="20" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VpYnPdU7izVROzX6TR5v-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VpYnPdU7izVROzX6TR5v-5" target="VpYnPdU7izVROzX6TR5v-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VpYnPdU7izVROzX6TR5v-5" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

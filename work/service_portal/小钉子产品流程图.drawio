@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T05:46:46.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.1.0" etag="vGn9YKMGsTY9LCwoBori" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T06:03:30.838Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lQXmNtq9Nc3sBqCmeEFM" version="24.1.0" type="github">
   <diagram name="第 1 页" id="BOG1ib5suPuN4VOzmgqg">
-    <mxGraphModel>
+    <mxGraphModel dx="984" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zb9_vXm7n1OrWYjXAEwV-1" target="zb9_vXm7n1OrWYjXAEwV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-7" value="2.定期拉取配置更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zb9_vXm7n1OrWYjXAEwV-6">
+          <mxGeometry x="0.1852" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zb9_vXm7n1OrWYjXAEwV-1" target="zb9_vXm7n1OrWYjXAEwV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="80" />
+              <mxPoint x="550" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-9" value="1.1启动时，拉取各种配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zb9_vXm7n1OrWYjXAEwV-8">
+          <mxGeometry x="-0.24" relative="1" as="geometry">
+            <mxPoint x="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zb9_vXm7n1OrWYjXAEwV-1" target="zb9_vXm7n1OrWYjXAEwV-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="305" as="sourcePoint" />
+            <mxPoint x="550" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="310" />
+              <mxPoint x="550" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-15" value="2.根据配置上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zb9_vXm7n1OrWYjXAEwV-14">
+          <mxGeometry x="-0.2303" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zb9_vXm7n1OrWYjXAEwV-1" target="zb9_vXm7n1OrWYjXAEwV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-17" value="1.2 启动时，上报设备静态信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zb9_vXm7n1OrWYjXAEwV-16">
+          <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
+            <mxPoint x="56" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-1" value="终端" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zb9_vXm7n1OrWYjXAEwV-2" target="zb9_vXm7n1OrWYjXAEwV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-2" value="运营人员&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-3" value="管理端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-5" value="修改采集规则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="108" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zb9_vXm7n1OrWYjXAEwV-11" value="&lt;h1 data-sider-select-id=&quot;98f66086-cdd4-4170-b3d4-e38ff03e341f&quot; style=&quot;margin-top: 0px;&quot;&gt;客户端配置&lt;/h1&gt;&lt;div&gt;1. 轮询配置频率&lt;/div&gt;&lt;div&gt;2.上报频率&lt;/div&gt;&lt;div&gt;3.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-130" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
